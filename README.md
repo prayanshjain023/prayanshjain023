@@ -1,4 +1,4 @@
-<h1 align="center">👋Hi i'm Prayansh Jain</h1>
+<h1 align="center">Hi👋 i'm Prayansh Jain</h1>
 <h3 align="center">A IT Somphomore who love exploring new field</h3>
 
 <h3 align="left">Connect with me:</h3>
